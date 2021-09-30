@@ -1,4 +1,4 @@
-# CGPA CALCULATOR
+<h1 align="center">CGPA CALCULATOR</h1>
 
 ## About the Project : 🎯
 
