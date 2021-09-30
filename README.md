@@ -12,11 +12,11 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 
 
-##  ✨Required Features
+##  ✨Basic Tasks
 - [x] Calculate GPA & CGPA.
 - [x] Visualize Sem wise CGPA in Graph.
 - [x] Predict required marks to get a particular CGPA.
-- [x] Dark Mode.
+
 
 
 ---
