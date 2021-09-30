@@ -23,7 +23,7 @@ These are the recommended approaches however you could try your own approach
 
 ---
 
-## Contributing: 😎
+## Contributing:
 
 >Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -40,7 +40,7 @@ Steps for Contrubuting :
 5: Create a PR taking `main` branch as the `base` branch.
 
 ---
-## Best Practices: 🥳
+## Best Practices:
 
 * Give a proper description of the features that you have implemented or the issues that you have solved.
 * Provide us the link of the deployed website and  screenshots of the webapp while making PR.
