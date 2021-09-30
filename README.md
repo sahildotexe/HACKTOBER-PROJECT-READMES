@@ -33,6 +33,8 @@ These are the recommended approaches however you could try your own approach
 
 >Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Steps for Contrubuting :
+
 1: Fork the repo
 
 2: Create a new branch on the forked repository.
