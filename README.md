@@ -1,10 +1,4 @@
 # CGPA CALCULATOR
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
-
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-
 
 ## About the Project : 🎯
 
